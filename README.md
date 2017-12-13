@@ -1,6 +1,17 @@
-# hello-world
-Tutorial setup repository
+#My Fabulous Recipe
 
-I am going through this tutorial as a refresher on creating repositories, branching, committing, and merging.
+This recipe for **cereal and milk** has been passed down my family for months.
 
-I took a class on this through Udacity.com about 4 months ago.
+##Ingredients
+
+- Cereal (you can find cool cereals [here](www.example.com/coolcereals))
+- Milk
+
+##Directions
+
+If I were writing these out as `code`, it might look something like this:
+
+`if bowl is empty:
+    add cereal
+if bowl only has cereal in it:
+    add milk`
